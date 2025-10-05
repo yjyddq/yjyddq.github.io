@@ -23,7 +23,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
-**Email**: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u> &nbsp; &nbsp;  **Wechat**: Markxu_0111
+**Email**: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u> &nbsp; &nbsp;  **Wechat**: wxid_fa6qu0x94mud22
 
 
 <h1 id='news'>🔥 News</h1>
@@ -58,13 +58,13 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
 
-#### Multi-Modal Learning & Domain Generalization for Face Anti-spoofing
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICCV 2025``</span> [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429). **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
-
 #### Video Understanding
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549). **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE TIFS``</span> [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675). **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
+
+#### Multi-Modal Learning & Domain Generalization for Face Anti-spoofing
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICCV 2025``</span> [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429). **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 
 # 🎖 Honors and Awards
@@ -84,7 +84,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 # 📖 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/HiGO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/EOSER_ASS_RL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924)
@@ -98,7 +98,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/RiOSWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
@@ -112,7 +112,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/DADM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429)
@@ -126,7 +126,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/triton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/CLAVER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549)
@@ -140,7 +140,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/turb_l1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/DLIF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243)
@@ -154,7 +154,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/GVformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675)
