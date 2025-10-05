@@ -85,7 +85,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 # 📖 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/EOSER_ASS_RL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/EOSER_ASS_RL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924)
