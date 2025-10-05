@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingyi Yang (杨靖懿)"
+  name             : "Jingyi Yang"
   avatar           : "images/profile_picture.jpg"
   bio              : ""
   location         : "Shanghai, China"

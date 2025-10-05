@@ -36,11 +36,11 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
+    <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS 2025 (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to IEEE TIFS (First Author).</li>
-    <li><strong>2025.06.26</strong>: 1 paper was accepted to ICCV2025 (First Author).</li>
-    <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (First Author).</li>
-    <li><strong>2024.07.04</strong>: 1 paper was accepted to ECAI2024 (First Author), selected as an Oral 🎉🎉🎉.</li>
+    <li><strong>2025.06.26</strong>: 1 paper was accepted to ICCV 2025 (First Author).</li>
+    <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR 2025 (First Author).</li>
+    <li><strong>2024.07.04</strong>: 1 paper was accepted to ECAI 2024 (First Author), selected as an Oral 🎉🎉🎉.</li>
   </ul>
 </div>
 
@@ -77,9 +77,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 
 # 💻 Academic service
-- Conference Reviewer: IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
-- Conference Reviewer: International Conference on Learning Representations 2025
-- Conference Reviewer: International Conference on Learning Representations 2026
+- Reviewer: IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
+- Reviewer: International Conference on Learning Representations 2025
+- Reviewer: International Conference on Learning Representations 2026
 
 
 # 📖 Selected Publications
@@ -98,7 +98,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/RiOSWorld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/RiOSWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
@@ -112,7 +112,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/DADM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/DADM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429)
@@ -126,7 +126,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/CLAVER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/CLAVER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549)
@@ -140,7 +140,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/DLIF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Oral</div><img src='../images/DLIF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243)
@@ -154,7 +154,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/GVformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS</div><img src='../images/GVformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675)
