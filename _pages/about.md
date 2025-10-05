@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📝 About Me
+# 👴 About Me
 
 I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://scholar.google.com/citations?hl=zh-CN&user=VU5ObUwAAAAJ). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). My research interest mainly includes Computer Vision, Deep Learning, AI Agent, Reinforcement Learning, Generative Models.
 
