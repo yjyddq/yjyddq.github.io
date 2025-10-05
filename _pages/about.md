@@ -1,0 +1,173 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+
+I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://scholar.google.com/citations?hl=zh-CN&user=VU5ObUwAAAAJ). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). My research interest mainly includes Computer Vision, Deep Learning, AI Agent, Reinforcement Learning, Generative Models.
+
+<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
+
+**Email**: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u> &nbsp; &nbsp;  **Wechat**: Markxu_0111
+
+
+<h1 id='news'>🔥 News</h1>
+<style>
+  .scrollable {
+    max-height: 260px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
+
+<div class="scrollable">
+  <ul>
+    <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
+    <li><strong>2025.06.26</strong>: 1 paper was accepted to IEEE TIFS (First Author).</li>
+    <li><strong>2025.06.26</strong>: 1 paper was accepted to ICCV2025 (First Author).</li>
+    <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (First Author).</li>
+    <li><strong>2024.07.04</strong>: 1 paper was accepted to ECAI2024 (First Author), selected as an Oral 🎉🎉🎉.</li>
+  </ul>
+</div>
+
+
+
+# 📝 Publications 
+
+#### Masked Diffusion Large Language Model & Reinforcement Learning
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
+
+#### Large Reasoning Model & Reinforcement Learning
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models](https://arxiv.org/pdf/2509.23962). Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, **Jingyi Yang**, Yu Cheng, Dongrui Liu, Jing Shao<sup>†</sup>
+
+#### Computer-Use Agent & Self-Evolving Agent
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
+
+#### Multi-Modal Learning & Domain Generalization for Face Anti-spoofing
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICCV 2025``</span> [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429). **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
+
+#### Video Understanding
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549). **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE TIFS``</span> [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675). **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
+
+
+# 🎖 Honors and Awards
+- *2020, 2021, 2022* Excellent Student Scholarship - First Prize (2%) twice, Third Prize (10%) once
+- *2022* Outstanding Graduates of Dalian City
+- *2021* Competition Specific Scholarship
+- *2021* The Mathematical Contest in Modeling (MCM)/Interdisciplinary Contest in Modeling (ICM) Honorable Mention
+- *2019* The 11th National College Student Mathematics Competition Liaoning Province - Third Prize
+- *2019* The 28th Dalian College Student Mathematics Competition - First Prize
+
+
+# 💻 Academic service
+- Conference Reviewer: IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
+- Conference Reviewer: International Conference on Learning Representations 2025
+- Conference Reviewer: International Conference on Learning Representations 2026
+
+
+# 📖 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/HiGO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924)
+
+**Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
+
+*ArXiv*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
+
+**Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
+
+*NeurIPS 2025*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429)
+
+**Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
+
+*ICCV 2025* 
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/triton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549)
+
+**Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
+
+*ICLR 2025* 
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/turb_l1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243)
+
+**Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
+
+*ECAI 2024 Oral*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675)
+
+**Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
+
+*IEEE TIFS* 
+
+</div>
+</div>
+
+
+<div style="width: 200px; height: 200px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
+</div>
+
