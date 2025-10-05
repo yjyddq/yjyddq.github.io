@@ -171,3 +171,13 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
 </div>
 
+
+<!-- 
+<br><br>
+<h2 style="font-weight: bold;">Publications</h2>
+
+<p><strong>Jingyi Yang</strong>, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>*</sup>. <strong>Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors (ECAI 2024 Oral)</strong> <a href="https://arxiv.org/abs/2407.08243" target="_self">Paper</a>, <a href="https://yjyddq.github.io/fas.mp4" target="_self">Demo</a>.</p>
+<br><br>
+
+<p><strong>Jingyi Yang</strong>, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>*</sup>. <strong>G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing (arXiv)</strong> <a href="https://arxiv.org/abs/2408.07675" target="_self">Paper</a>.</p>
+<br><br> -->
