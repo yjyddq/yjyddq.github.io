@@ -35,33 +35,6 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
     max-height: 260px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
-  .tag {
-    display: inline-block;
-    background-color: #0073e6;
-    color: rgb(33, 32, 32);
-    padding: 3px 7px;
-    border-radius: 15px;
-    font-size: 0.8em;
-    margin-right: 5px;
-   }
-  .tag-fas {
-    background-color: #bde0fe;
-  }
-  .tag-mm {
-    background-color: #ffc800;
-  }
-  .tag-video {
-    background-color: #ffc8dd;
-  }
-  .tag-dllm {
-    background-color: #cdb4db;
-  }
-  .tag-rl {
-    background-color: #a2d2ff;
-  }
-  .tag-cua {
-    background-color: #d8f060;
-  }
 </style>
 
 <div class="scrollable">
@@ -75,8 +48,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 </div>
 
 
-
-# 📝 Research
+<h1 id='research-topics'>📝 Research Topics</h1>
 
 #### Masked Diffusion Large Language Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
@@ -110,23 +82,36 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 
-
-# 🎖 Honors and Awards
-- *2020, 2021, 2022* Excellent Student Scholarship - First Prize (2%) twice, Third Prize (10%) once
-- *2022* Outstanding Graduates of Dalian City
-- *2021* Competition Specific Scholarship
-- *2021* The Mathematical Contest in Modeling (MCM)/Interdisciplinary Contest in Modeling (ICM) Honorable Mention
-- *2019* The 11th National College Student Mathematics Competition Liaoning Province - Third Prize
-- *2019* The 28th Dalian College Student Mathematics Competition - First Prize
-
-
-# 💻 Academic Service
-- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
-- Reviewer of International Conference on Learning Representations 2025
-- Reviewer of International Conference on Learning Representations 2026
-
-
-# 📖 Selected Publications
+<h1 id='selected-publications'>📖 Selected Publications</h1>
+<style>
+  .tag {
+    display: inline-block;
+    background-color: #0073e6;
+    color: rgb(33, 32, 32);
+    padding: 3px 7px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    margin-right: 5px;
+   }
+  .tag-fas {
+    background-color: #bde0fe;
+  }
+  .tag-mm {
+    background-color: #ffc800;
+  }
+  .tag-video {
+    background-color: #ffc8dd;
+  }
+  .tag-dllm {
+    background-color: #cdb4db;
+  }
+  .tag-rl {
+    background-color: #a2d2ff;
+  }
+  .tag-cua {
+    background-color: #d8f060;
+  }
+</style>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/EOSER_ASS_RL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -156,7 +141,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
-  <summary>**Demo**</summary>
+  <summary>Demo</summary>
   <video controls width="100%">
     <source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/RiOSWorld_demo.mp4" type="video/mp4">
   </video>
@@ -222,7 +207,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <br>
 <a href="https://github.com/yjyddq/DLIF">**Code**</a>
 <details>
-  <summary>**Demo**</summary>
+  <summary>Demo</summary>
   <video controls width="100%">
     <source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/fas.mp4" type="video/mp4">
   </video>
@@ -231,7 +216,6 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 </div>
 </div>
-
 
 <div style="width: 200px; height: 200px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
@@ -262,13 +246,19 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
     });
   });
 </script>
-  
-<!-- 
-<br><br>
-<h2 style="font-weight: bold;">Publications</h2>
 
-<p><strong>Jingyi Yang</strong>, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>*</sup>. <strong>Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors (ECAI 2024 Oral)</strong> <a href="https://arxiv.org/abs/2407.08243" target="_self">Paper</a>, <a href="https://yjyddq.github.io/fas.mp4" target="_self">Demo</a>.</p>
-<br><br>
+<h1 id='honors-and-awards'>🎖 Honors and Awards</h1>
 
-<p><strong>Jingyi Yang</strong>, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>*</sup>. <strong>G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing (arXiv)</strong> <a href="https://arxiv.org/abs/2408.07675" target="_self">Paper</a>.</p>
-<br><br> -->
+- *2020, 2021, 2022* Excellent Student Scholarship - First Prize (2%) twice, Third Prize (10%) once
+- *2022* Outstanding Graduates of Dalian City
+- *2021* Competition Specific Scholarship
+- *2021* The Mathematical Contest in Modeling (MCM)/Interdisciplinary Contest in Modeling (ICM) Honorable Mention
+- *2019* The 11th National College Student Mathematics Competition Liaoning Province - Third Prize
+- *2019* The 28th Dalian College Student Mathematics Competition - First Prize
+
+
+<h1 id='academic-services'>💻 Academic Service</h1>
+
+- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
+- Reviewer of International Conference on Learning Representations 2025
+- Reviewer of International Conference on Learning Representations 2026
