@@ -235,7 +235,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 - Reviewer of International Conference on Learning Representations 2025
 - Reviewer of International Conference on Learning Representations 2026
 
-<div style="width: 200px; height: 200px;">
+<div style="width: 800px; height: 800px;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=etQgFBMwXmN9SCKnUHbRL9wr8n4MjpFP-KVHLoOB74o&cl=ffffff&w=a"></script>
 </div>
 
