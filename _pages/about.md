@@ -123,7 +123,11 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/RiOSWorld_demo.mp4">Demo</a>
+<a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
+<a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> / 
+<video controls width="100%">
+<source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/RiOSWorld_demo.mp4" type="video/mp4">Demo
+</video>
 <br>
 
 </div>
@@ -171,7 +175,10 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/DLIF">Code</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/fas.mp4">Demo</a>
+<a href="https://github.com/yjyddq/DLIF">Code</a> / 
+<video controls width="100%">
+<source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/fas.mp4" type="video/mp4">Demo
+</video>
 <br>
 
 </div>
