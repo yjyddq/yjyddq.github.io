@@ -83,6 +83,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 
 <h1 id='selected-publications'>📖 Selected Publications</h1>
+
 <style>
   .tag {
     display: inline-block;
@@ -217,9 +218,26 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 </div>
 </div>
 
-<div style="width: 200px; height: 200px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
-</div>
+
+<h1 id='honors-and-awards'>🎖 Honors and Awards</h1>
+
+- *2020, 2021, 2022* Excellent Student Scholarship - First Prize (2%) twice, Third Prize (10%) once
+- *2022* Outstanding Graduates of Dalian City
+- *2021* Competition Specific Scholarship
+- *2021* The Mathematical Contest in Modeling (MCM)/Interdisciplinary Contest in Modeling (ICM) Honorable Mention
+- *2019* The 11th National College Student Mathematics Competition Liaoning Province - Third Prize
+- *2019* The 28th Dalian College Student Mathematics Competition - First Prize
+
+
+<h1 id='academic-services'>💻 Academic Service</h1>
+
+- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
+- Reviewer of International Conference on Learning Representations 2025
+- Reviewer of International Conference on Learning Representations 2026
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=etQgFBMwXmN9SCKnUHbRL9wr8n4MjpFP-KVHLoOB74o&cl=ffffff&w=a"></script>
+
 
 <!-- Definations for tags -->
 <script>
@@ -247,18 +265,3 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
   });
 </script>
 
-<h1 id='honors-and-awards'>🎖 Honors and Awards</h1>
-
-- *2020, 2021, 2022* Excellent Student Scholarship - First Prize (2%) twice, Third Prize (10%) once
-- *2022* Outstanding Graduates of Dalian City
-- *2021* Competition Specific Scholarship
-- *2021* The Mathematical Contest in Modeling (MCM)/Interdisciplinary Contest in Modeling (ICM) Honorable Mention
-- *2019* The 11th National College Student Mathematics Competition Liaoning Province - Third Prize
-- *2019* The 28th Dalian College Student Mathematics Competition - First Prize
-
-
-<h1 id='academic-services'>💻 Academic Service</h1>
-
-- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
-- Reviewer of International Conference on Learning Representations 2025
-- Reviewer of International Conference on Learning Representations 2026
