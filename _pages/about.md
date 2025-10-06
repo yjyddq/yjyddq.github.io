@@ -47,49 +47,39 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 
 
-# 📝 Publications 
+# 📝 Research
 
 #### Masked Diffusion Large Language Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
-<br>
-<a href="https://github.com/yjyddq/EOSER-ASS-RL">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/>
-<br>
+
 
 #### Large Reasoning Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models](https://arxiv.org/pdf/2509.23962). Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, **Jingyi Yang**, Yu Cheng, Dongrui Liu, Jing Shao<sup>†</sup>
-<br>
+<!-- <br>
 <a href="https://github.com/biuboomc/CANON">Code</a> <img src="https://img.shields.io/github/stars/biuboomc/CANON"/>
-<br>
+<br> -->
 
 #### Computer-Use Agent & Self-Evolving Agent
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
-<br>
-<a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/RiOSWorld_demo.mp4">Demo</a>
-<br>
+
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
-<br>
+<!-- <br>
 <a href="https://github.com/ShaoShuai0605/Misevolution">Code</a> <img src="https://img.shields.io/github/stars/ShaoShuai0605/Misevolution"/>
-<br>
+<br> -->
 
 #### Video Understanding
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549). **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
-<br>
-<a href="https://github.com/yjyddq/CLAVER">Code</a>
-<br>
+
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE TIFS``</span> [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675). **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
 
 #### Multi-Modal Learning & Domain Generalization for Face Anti-spoofing
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICCV 2025``</span> [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429). **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
-<br>
-<a href="https://github.com/yjyddq/DADM">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM"/>
-<br>
+
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
-<br>
-<a href="https://github.com/yjyddq/DLIF">Code</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/fas.mp4">Demo</a>
-<br>
+
 
 
 # 🎖 Honors and Awards
@@ -116,7 +106,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
 
-*ArXiv*
+<br>
+<a href="https://github.com/yjyddq/EOSER-ASS-RL">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/>
+<br>
 
 </div>
 </div>
@@ -130,7 +122,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
-*NeurIPS 2025*
+<br>
+<a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/RiOSWorld_demo.mp4">Demo</a>
+<br>
 
 </div>
 </div>
@@ -144,7 +138,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
 
-*ICCV 2025* 
+<br>
+<a href="https://github.com/yjyddq/DADM">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM"/>
+<br>
 
 </div>
 </div>
@@ -158,21 +154,25 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
-*ICLR 2025* 
+<br>
+<a href="https://github.com/yjyddq/CLAVER">Code</a>
+<br>
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Oral</div><img src='../images/DLIF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Oral 🎉</div><img src='../images/DLIF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243)
 
 **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
-*ECAI 2024 Oral*
+<br>
+<a href="https://github.com/yjyddq/DLIF">Code</a> / <a href="https://github.com/yjyddq/yjyddq.github.io/blob/main/videos/fas.mp4">Demo</a>
+<br>
 
 </div>
 </div>
@@ -186,7 +186,6 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
 
-*IEEE TIFS* 
 
 </div>
 </div>
