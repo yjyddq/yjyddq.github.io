@@ -4,18 +4,18 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Research Topics"
-    url: "/#-research-topics"
+    url: "/#research-topics"
     
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/#academic-services"
 
 
