@@ -77,7 +77,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 - *2019* The 28th Dalian College Student Mathematics Competition - First Prize
 
 
-# 💻 Academic service
+# 💻 Academic Service
 - Reviewer: IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
 - Reviewer: International Conference on Learning Representations 2025
 - Reviewer: International Conference on Learning Representations 2026
