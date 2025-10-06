@@ -36,6 +36,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
   .tag-fas {
     background-color: #bde0fe;
   }
+  .tag-mm {
+    background-color: #ffc800;
+  }
   .tag-video {
     background-color: #ffc8dd;
   }
@@ -118,7 +121,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924)
-
+<div class="tags" data-tags="dllm,rl"></div>
 **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
 
 <br>
@@ -134,7 +137,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
-
+<div class="tags" data-tags="cua"></div>
 **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
@@ -157,7 +160,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429)
-
+<div class="tags" data-tags="fas,mm"></div>
 **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
 
 <br>
@@ -173,7 +176,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549)
-
+<div class="tags" data-tags="video,mm"></div>
 **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
@@ -189,7 +192,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675)
-
+<div class="tags" data-tags="fas,video,mm"></div>
 **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
 
 </div>
@@ -201,7 +204,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 <div class='paper-box-text' markdown="1">
 
 [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243)
-
+<div class="tags" data-tags="fas"></div>
 **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
@@ -228,9 +231,10 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
   const tagsMap = {
     'fas': { name: 'Face Anti-spoofing', class: 'tag-fas' },
     'video': { name: 'Video Understanding', class: 'tag-video' },
+    'mm': { name: 'Multi-Modal Learning', class: 'tag-mm' },
     'dllm': { name: 'Diffusion Large Language Model', class: 'tag-dllm' },
     'rl': { name: 'Reinforcement Learning', class: 'tag-rl' },
-    'agent': { name: 'Computer-Use Agent', class: 'tag-cua' },
+    'cua': { name: 'Computer-Use Agent', class: 'tag-cua' },
   };
 
   // 渲染标签并为不同标签分配不同的CSS类
