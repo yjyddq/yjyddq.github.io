@@ -243,7 +243,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <script>
   // 预定义标签的名称和简称
   const tagsMap = {
-    'fas': { name: 'Face Anti-spoofing', class: 'tag-fas' },
+    'fas': { name: 'Face Anti-Spoofing', class: 'tag-fas' },
     'video': { name: 'Video Understanding', class: 'tag-video' },
     'mm': { name: 'Multi-Modal Learning', class: 'tag-mm' },
     'dllm': { name: 'Diffusion Large Language Model', class: 'tag-dllm' },
