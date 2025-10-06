@@ -20,11 +20,13 @@ redirect_from:
 
 # 👴 About Me
 
-I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://scholar.google.com/citations?hl=zh-CN&user=VU5ObUwAAAAJ). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). My research interest mainly includes Computer Vision, Deep Learning, AI Agent, Reinforcement Learning, Generative Models.
+I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://scholar.google.com/citations?hl=zh-CN&user=VU5ObUwAAAAJ). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
 
-<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
+My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**.
 
 **Email**: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u> &nbsp; &nbsp;  **Wechat**: wxid_fa6qu0x94mud22
+
+<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
 
 <h1 id='news'>🔥 News</h1>
@@ -119,9 +121,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 
 # 💻 Academic Service
-- Reviewer: IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
-- Reviewer: International Conference on Learning Representations 2025
-- Reviewer: International Conference on Learning Representations 2026
+- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
+- Reviewer of International Conference on Learning Representations 2025
+- Reviewer of International Conference on Learning Representations 2026
 
 
 # 📖 Selected Publications
@@ -134,7 +136,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/EOSER-ASS-RL">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/>
+<a href="https://github.com/yjyddq/EOSER-ASS-RL">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/>
 <br>
 
 </div>
@@ -150,11 +152,11 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://yjyddq.github.io/RiOSWorld.github.io/">Project HomePage</a> /
-<a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
-<a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> 
+<a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
+<a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
+<a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
-  <summary>Demo</summary>
+  <summary>**Demo**</summary>
   <video controls width="100%">
     <source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/RiOSWorld_demo.mp4" type="video/mp4">
   </video>
@@ -174,7 +176,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
 
 <br>
-<a href="https://github.com/yjyddq/DADM">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM"/>
+<a href="https://github.com/yjyddq/DADM">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM"/>
 <br>
 
 </div>
@@ -190,7 +192,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/CLAVER">Code</a>
+<a href="https://github.com/yjyddq/CLAVER">**Code**</a>
 <br>
 
 </div>
@@ -218,9 +220,9 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/DLIF">Code</a>
+<a href="https://github.com/yjyddq/DLIF">**Code**</a>
 <details>
-  <summary>Demo</summary>
+  <summary>**Demo**</summary>
   <video controls width="100%">
     <source src="https://raw.githubusercontent.com/yjyddq/yjyddq.github.io/main/videos/fas.mp4" type="video/mp4">
   </video>
