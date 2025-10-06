@@ -33,6 +33,15 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
     max-height: 260px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
+  .tag {
+    display: inline-block;
+    background-color: #0073e6;
+    color: rgb(33, 32, 32);
+    padding: 3px 7px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    margin-right: 5px;
+   }
   .tag-fas {
     background-color: #bde0fe;
   }
