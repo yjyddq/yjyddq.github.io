@@ -33,6 +33,21 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
     max-height: 260px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
+  .tag-fas {
+    background-color: #bde0fe;
+  }
+  .tag-video {
+    background-color: #ffc8dd;
+  }
+  .tag-dllm {
+    background-color: #cdb4db;
+  }
+  .tag-rl {
+    background-color: #a2d2ff;
+  }
+  .tag-cua {
+    background-color: #d8f060;
+  }
 </style>
 
 <div class="scrollable">
@@ -124,7 +139,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 
 <br>
 <a href="https://github.com/yjyddq/RiOSWorld">Code</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
-<a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> / 
+<a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">机器之心</a> 
 <details>
   <summary>Demo</summary>
   <video controls width="100%">
@@ -190,7 +205,7 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
 **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/DLIF">Code</a> / 
+<a href="https://github.com/yjyddq/DLIF">Code</a>
 <details>
   <summary>Demo</summary>
   <video controls width="100%">
@@ -207,7 +222,31 @@ I am currently a first-year Ph.D. student jointly trained by Fudan University an
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
 </div>
 
+<!-- Definations for tags -->
+<script>
+  // 预定义标签的名称和简称
+  const tagsMap = {
+    'fas': { name: 'Face Anti-spoofing', class: 'tag-fas' },
+    'video': { name: 'Video Understanding', class: 'tag-video' },
+    'dllm': { name: 'Diffusion Large Language Model', class: 'tag-dllm' },
+    'rl': { name: 'Reinforcement Learning', class: 'tag-rl' },
+    'agent': { name: 'Computer-Use Agent', class: 'tag-cua' },
+  };
 
+  // 渲染标签并为不同标签分配不同的CSS类
+  document.querySelectorAll('.tags').forEach(tagDiv => {
+    const tagAbbreviations = tagDiv.getAttribute('data-tags').split(',');
+    tagAbbreviations.forEach(abbreviation => {
+      if (tagsMap[abbreviation]) {
+        const tagElement = document.createElement('span');
+        tagElement.classList.add('tag', tagsMap[abbreviation].class);
+        tagElement.textContent = tagsMap[abbreviation].name;
+        tagDiv.appendChild(tagElement);
+      }
+    });
+  });
+</script>
+  
 <!-- 
 <br><br>
 <h2 style="font-weight: bold;">Publications</h2>
