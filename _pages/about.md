@@ -39,6 +39,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.09.30</strong>: We release our paper [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924) and Code (First Author).</li>  
     <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS 2025 (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to IEEE TIFS (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to ICCV 2025 (First Author).</li>
