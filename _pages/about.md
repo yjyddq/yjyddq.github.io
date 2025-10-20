@@ -136,7 +136,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
 <div class="tags" data-tags="cua"></div>
-**Jingyi Yang**<sup>*</sup><sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
+**Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
