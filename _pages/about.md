@@ -83,7 +83,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
 
-<h1 id='selected-publications'>📖 Selected Publications</h1>
+<h1 id='selected-publications'>📖 Selected Publications (<sup>*</sup> Equal Contribution, <sup>‡</sup> Project Leader, <sup>†</sup> Corresponding Author)</h1>
 
 <style>
   .tag {
@@ -136,7 +136,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618)
 <div class="tags" data-tags="cua"></div>
-**Jingyi Yang**<sup>*</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
+**Jingyi Yang**<sup>*</sup><sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
