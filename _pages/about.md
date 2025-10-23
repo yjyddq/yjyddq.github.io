@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://scholar.google.com/citations?hl=zh-CN&user=VU5ObUwAAAAJ). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
 
-My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**. [My CV](https://github.com/yjyddq/yjyddq.github.io/files/resume.pdf) 📄
+My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**. [My CV](https://github.com/yjyddq/yjyddq.github.io/blob/main/files/resume.pdf) 📄
 
 **Email** 📧: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u>
 
