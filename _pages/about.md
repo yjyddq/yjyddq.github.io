@@ -125,7 +125,8 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/EOSER-ASS-RL">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/>
+<a href="https://github.com/yjyddq/EOSER-ASS-RL">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/> / 
+<a href="https://mp.weixin.qq.com/s/O1e5zmkTPu8cNnCrMPUmTQ">**机器之心**</a> 
 <br>
 
 </div>
