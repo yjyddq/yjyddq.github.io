@@ -129,7 +129,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://github.com/yjyddq/EOSER-ASS-RL">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL"/> / 
+<a href="https://github.com/yjyddq/EOSER-ASS-RL">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL?style=flat-square&logo=github&label=Stars"/> / 
 <a href="https://mp.weixin.qq.com/s/O1e5zmkTPu8cNnCrMPUmTQ">**机器之心**</a> 
 <br>
 
@@ -147,8 +147,8 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
-<a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
-<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
+<a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=flat-square&logo=github&label=Stars"/> / 
+<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
   <summary>Demo</summary>
@@ -171,7 +171,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
 
 <br>
-<a href="https://github.com/yjyddq/DADM">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM"/>
+<a href="https://github.com/yjyddq/DADM">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DADM?style=flat-square&logo=github&label=Stars"/>
 <br>
 
 </div>
