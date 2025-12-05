@@ -148,7 +148,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
 <a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld"/> / 
-<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
+<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
   <summary>Demo</summary>
