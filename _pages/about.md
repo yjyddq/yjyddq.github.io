@@ -20,7 +20,7 @@ redirect_from:
 
 # 👴 About Me
 
-I am currently a first-year Ph.D. student jointly trained by Fudan University and Shanghai AI Lab, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
+I am currently a first-year Ph.D. student at Fudan University and Shanghai AI Laboratory, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
 
 My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
 
