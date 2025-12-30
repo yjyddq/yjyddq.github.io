@@ -55,7 +55,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <h1 id='research-topics'>📝 Research Topics</h1>
 
 #### Masked Diffusion Large Language Model & Reinforcement Learning
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Github``</span> [DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE). **Jingyi Yang**, Yuxian Jiang, ..., Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Github``</span> [DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE). **Jingyi Yang**, Yuxian Jiang, Xuhao Hu, Jing Shao<sup>†</sup>
 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
@@ -120,6 +120,22 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
     background-color: #d8f060;
   }
 </style>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE)
+<div class="tags" data-tags="dllm,rl"></div>
+**Jingyi Yang**, YuXian Jiang, Xuhao Hu, Jing Shao<sup>†</sup>
+
+<br>
+<a href="https://github.com/yjyddq/DARE">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DARE?style=flat-square&logo=github&label=Stars"/> 
+<br>
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/EOSER_ASS_RL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
