@@ -20,7 +20,7 @@ redirect_from:
 
 # 👴 About Me
 
-I am currently a first-year Ph.D. student at Fudan University and Shanghai AI Laboratory, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
+I am currently a first-year Ph.D. student at Fudan University, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
 
 My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
 
@@ -54,7 +54,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 <h1 id='research-topics'>📝 Research Topics</h1>
 
-#### Masked Diffusion Large Language Model & Reinforcement Learning
+#### Diffusion Large Language Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Github``</span> [DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE) --- *an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
 
 
