@@ -41,6 +41,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.01.26</strong>: 2 paper was accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of DARE: dLLM Alignment and Reinforcement Executor, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
     <li><strong>2025.09.28</strong>: We release the paper and code of Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step (First Author).</li>  
     <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS 2025 (First Author).</li>
@@ -62,7 +63,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 
 #### Large Reasoning Model & Reinforcement Learning
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models](https://arxiv.org/pdf/2509.23962). Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, **Jingyi Yang**, Yu Cheng, Dongrui Liu, Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2026``</span> [Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models](https://arxiv.org/pdf/2509.23962). Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, **Jingyi Yang**, Yu Cheng, Dongrui Liu, Jing Shao<sup>†</sup>
 <!-- <br>
 <a href="https://github.com/biuboomc/CANON">Code</a> <img src="https://img.shields.io/github/stars/biuboomc/CANON"/>
 <br> -->
@@ -71,7 +72,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2026``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
 <!-- <br>
 <a href="https://github.com/ShaoShuai0605/Misevolution">Code</a> <img src="https://img.shields.io/github/stars/ShaoShuai0605/Misevolution"/>
 <br> -->
