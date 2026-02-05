@@ -40,7 +40,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 <div class="scrollable">
   <ul>
     <li><strong>2026.01.30</strong>: We release the paper of ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
-    <li><strong>2026.01.26</strong>: 2 paper was accepted to ICLR 2026.</li>
+    <li><strong>2026.01.26</strong>: 2 papers (CANON and Misevolve) were accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of DARE: dLLM Alignment and Reinforcement Executor, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
     <li><strong>2025.09.28</strong>: We release the paper and code of Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step (First Author).</li>  
     <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS 2025 (First Author).</li>
