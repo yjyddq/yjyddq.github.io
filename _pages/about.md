@@ -22,13 +22,11 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Fudan University, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
 
-My research interest mainly includes **Computer Vision**, **Deep Learning**, **AI Agent**, **Reinforcement Learning**, **Generative Models**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
+My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinforcement Learning**, **Diffusion**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
 
 **Email** 📧: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u>
 
-**Wechat** 📱: wxid_fa6qu0x94mud22
-
-😀 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
+😀 <b><span style="color:pink;">Please feel free to contact me for communication and collaboration.</span></b>
 
 
 <h1 id='news'>🔥 News</h1>
@@ -41,6 +39,7 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.01.30</strong>: We release the paper of ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 paper was accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of DARE: dLLM Alignment and Reinforcement Executor, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
     <li><strong>2025.09.28</strong>: We release the paper and code of Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step (First Author).</li>  
@@ -56,6 +55,8 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
 <h1 id='research-topics'>📝 Research Topics</h1>
 
 #### Diffusion Large Language Model & Reinforcement Learning
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/pdf/2601.22527). **Jingyi Yang**, Yuxian Jiang, Jing Shao<sup>†</sup>
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Github``</span> [DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE) --- *an efficient rl training framework for diffusion large language models (<span style="color:red;">based on verl</span>) integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
 
 
@@ -121,6 +122,22 @@ My research interest mainly includes **Computer Vision**, **Deep Learning**, **A
     background-color: #d8f060;
   }
 </style>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/rho_EOS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/pdf/2601.22527)
+<div class="tags" data-tags="dllm"></div>
+**Jingyi Yang**, Yuxian Jiang, Jing Shao<sup>†</sup>
+
+<br>
+**Code** to be update
+<br>
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
