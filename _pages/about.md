@@ -131,7 +131,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 **Jingyi Yang**, Yuxian Jiang, Jing Shao<sup>†</sup>
 
 <br>
-**Code** to be update
+<a href="https://github.com/yjyddq/rho-EOS">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/rho-EOS?style=flat-square&logo=github&label=Stars"/> 
 <br>
 
 </div>
