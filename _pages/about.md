@@ -36,7 +36,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
-<b>https://github.com/InternLM/WildClawBench</b>
+
 <div class="scrollable">
   <ul>
     <li><strong>2025.03.25</strong>: We release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
