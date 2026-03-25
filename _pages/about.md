@@ -36,9 +36,10 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
-
+<b>https://github.com/InternLM/WildClawBench</b>
 <div class="scrollable">
   <ul>
+    <li><strong>2025.03.25</strong>: We release the WildClawBench, a Hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
     <li><strong>2026.01.30</strong>: We release the paper of <b>ρ-𝙴𝙾𝚂</b>: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 papers (<b>CANON</b> and <b>Misevolve</b>) were accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
@@ -65,18 +66,15 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 
 #### Large Reasoning Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2026``</span> [Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models](https://arxiv.org/pdf/2509.23962). Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, **Jingyi Yang**, Yu Cheng, Dongrui Liu, Jing Shao<sup>†</sup>
-<!-- <br>
-<a href="https://github.com/biuboomc/CANON">Code</a> <img src="https://img.shields.io/github/stars/biuboomc/CANON"/>
-<br> -->
 
-#### Computer-Use Agent & Self-Evolving Agent
+
+#### AI Agents & Computer-Use Agent & Self-Evolving Agent
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``GitHub``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, Jingyi Yang, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
-
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2026``</span> [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/pdf/2509.26354). Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, **Jingyi Yang**, Xinhao Song, Linfeng Zhang, Weinan Zhang, Dongrui Liu, Jing Shao<sup>†</sup>
-<!-- <br>
-<a href="https://github.com/ShaoShuai0605/Misevolution">Code</a> <img src="https://img.shields.io/github/stars/ShaoShuai0605/Misevolution"/>
-<br> -->
+
 
 #### Video Understanding
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549). **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
@@ -122,6 +120,23 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
     background-color: #d8f060;
   }
 </style>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub</div><img src='../images/lobster_battle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench)
+<div class="tags" data-tags="cua"></div>
+Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, Jingyi Yang, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
+
+<br>
+<a href="https://internlm.github.io/WildClawBench/">**Project HomePage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
+<a href="https://huggingface.co/datasets/internlm/WildClawBench">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<br>
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/rho_EOS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -274,9 +289,10 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 
 <h1 id='academic-services'>💻 Academic Service</h1>
 
-- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
-- Reviewer of International Conference on Learning Representations 2025
+- Reviewer of International Conference on Machine Learning 2026
 - Reviewer of International Conference on Learning Representations 2026
+- Reviewer of International Conference on Learning Representations 2025
+- Reviewer of IEEE International Joint Conference on Biometrics (IJCB) Multimodal Human Behavior Understanding & Generation 2024
 
 <div style="width: 800px; height: 800px; margin: 0 auto; display: flex; justify-content: center; text-align: center;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=etQgFBMwXmN9SCKnUHbRL9wr8n4MjpFP-KVHLoOB74o&cl=ffffff&w=a"></script>
