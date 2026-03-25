@@ -39,7 +39,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 <b>https://github.com/InternLM/WildClawBench</b>
 <div class="scrollable">
   <ul>
-    <li><strong>2025.03.25</strong>: We release the WildClawBench, a Hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
+    <li><strong>2025.03.25</strong>: We release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
     <li><strong>2026.01.30</strong>: We release the paper of <b>ρ-𝙴𝙾𝚂</b>: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 papers (<b>CANON</b> and <b>Misevolve</b>) were accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
@@ -69,7 +69,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 
 
 #### AI Agents & Computer-Use Agent & Self-Evolving Agent
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``GitHub``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, Jingyi Yang, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``GitHub``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
@@ -126,7 +126,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 
 [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench)
 <div class="tags" data-tags="cua"></div>
-Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, Jingyi Yang, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
+Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
 
 <br>
 <a href="https://internlm.github.io/WildClawBench/">**Project HomePage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
