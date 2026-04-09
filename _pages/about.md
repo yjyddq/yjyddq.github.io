@@ -39,10 +39,11 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.04.08</strong>: We release the tech report of <b>DARE</b> and update the codebase.</li>
     <li><strong>2026.03.25</strong>: We release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
     <li><strong>2026.01.30</strong>: We release the paper of <b>ρ-𝙴𝙾𝚂</b>: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 papers (<b>CANON</b> and <b>Misevolve</b>) were accepted to ICLR 2026.</li>
-    <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms (Project Leader).</li>  
+    <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms.</li>  
     <li><strong>2025.09.28</strong>: We release the paper and code of Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step (First Author).</li>  
     <li><strong>2025.09.18</strong>: 1 paper (<b>RiOSWorld</b>) was accepted to NeurIPS 2025 (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to IEEE TIFS (First Author).</li>
@@ -58,7 +59,7 @@ My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinfo
 #### Diffusion Large Language Model & Reinforcement Learning
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/pdf/2601.22527). **Jingyi Yang**, Yuxian Jiang, Jing Shao<sup>†</sup>
 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Github``</span> [DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE) --- *an efficient rl training framework for diffusion large language models (<span style="color:red;">based on verl</span>) integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/pdf/2604.04215) --- *an efficient rl training framework for diffusion large language models (<span style="color:red;">based on verl</span>) integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
@@ -138,6 +139,22 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/pdf/2604.04215)
+<div class="tags" data-tags="dllm,rl"></div>
+**Jingyi Yang**<sup>*</sup>, YuXian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Shuang Cheng, Biqing Qi, Jing Shao<sup>†</sup>
+
+<br>
+<a href="https://github.com/yjyddq/DARE">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DARE?style=flat-square&logo=github&label=Stars"/> 
+<br>
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/rho_EOS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -147,22 +164,6 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 <br>
 <a href="https://github.com/yjyddq/rho-EOS">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/rho-EOS?style=flat-square&logo=github&label=Stars"/> 
-<br>
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DARE: dLLM Alignment and Reinforcement Executor](https://github.com/yjyddq/DARE)
-<div class="tags" data-tags="dllm,rl"></div>
-**Jingyi Yang**, YuXian Jiang, Xuhao Hu, Jing Shao<sup>†</sup>
-
-<br>
-<a href="https://github.com/yjyddq/DARE">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/DARE?style=flat-square&logo=github&label=Stars"/> 
 <br>
 
 </div>
