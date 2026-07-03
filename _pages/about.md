@@ -20,9 +20,7 @@ redirect_from:
 
 # 👴 About Me
 
-I am currently a first-year Ph.D. student at Fudan University, supervised by [Jing Shao](https://amandajshao.github.io/). Before that, I got my Master's degree at University of Science and Technology of China (USTC) and my Bachelor's degree from Dalian Maritime University (DLMU). 
-
-My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinforcement Learning**, **Diffusion**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
+I am currently a first-year Ph.D. student at Fudan University. My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinforcement Learning**, **Diffusion**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
 
 **Email** 📧: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u>
 
