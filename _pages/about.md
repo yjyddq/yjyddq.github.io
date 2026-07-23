@@ -37,9 +37,10 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.07.08</strong>: 1 paper (<b>DARE</b>) was accepted to COLM 2026 (First Author)</li>
+    <li><strong>2026.07.22</strong>: We (AntGroup) released LLaDA2.2: Enabling Agentic Diffusion Language Models via Levenshtein Editing!</li>
+    <li><strong>2026.07.08</strong>: 1 paper (<b>DARE</b>) was accepted to COLM 2026 (First Author).</li>
     <li><strong>2026.04.08</strong>: We release the tech report of <b>DARE</b> and update the codebase.</li>
-    <li><strong>2026.03.25</strong>: We release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
+    <li><strong>2026.03.25</strong>: We (InternLM) release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
     <li><strong>2026.01.30</strong>: We release the paper of <b>ρ-𝙴𝙾𝚂</b>: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 papers (<b>CANON</b> and <b>Misevolve</b>) were accepted to ICLR 2026.</li>
     <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms.</li>  
@@ -56,9 +57,11 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 <h1 id='research-topics'>📝 Research Topics</h1>
 
 #### Diffusion Large Language Model & Reinforcement Learning
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Tech Report``</span> [LLaDA2.2: Enabling Agentic Diffusion Language Models via Levenshtein Editing](https://github.com/inclusionAI/LLaDA2.X/blob/main/LLaDA2_2_tech_report.pdf). AntGroup
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [ρ-𝙴𝙾𝚂: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/pdf/2601.22527). **Jingyi Yang**, Yuxian Jiang, Jing Shao<sup>†</sup>
 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/pdf/2604.04215) --- *an efficient rl training framework for diffusion large language models (<span style="color:red;">based on verl</span>) integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``COLM 2026``</span> [DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/pdf/2604.04215) --- *an efficient rl training framework for diffusion large language models (<span style="color:red;">based on verl</span>) integrated various dLLM-tailored rl algorithms*. **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Yuxian Jiang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Jing Shao<sup>†</sup>
 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/pdf/2509.23924). **Jingyi Yang**, Guanxu Chen, Xuhao Hu, Jing Shao<sup>†</sup>
@@ -121,6 +124,23 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
   }
 </style>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='../images/LLaDA2_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaDA2.2: Enabling Agentic Diffusion Language Models via Levenshtein Editing](https://github.com/inclusionAI/LLaDA2.X/blob/main/LLaDA2_2_tech_report.pdf)
+<div class="tags" data-tags="dllm"></div>
+AntGroup
+
+<br>
+<a href="https://github.com/inclusionAI/">**ProjectPage**</a> / <a href="https://github.com/inclusionAI/LLaDA2.X">**Code**</a> <img src="https://img.shields.io/github/stars/inclusionAI/LLaDA2.X?style=flat-square&logo=github&label=Stars"/> / 
+<a href="https://huggingface.co/inclusionAI/LLaDA2.2-flash">**Model**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-flash?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<br>
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub</div><img src='../images/lobster_battle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -129,7 +149,7 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
 
 <br>
-<a href="https://internlm.github.io/WildClawBench/">**Project HomePage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
+<a href="https://internlm.github.io/WildClawBench/">**ProjectPage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
 <a href="https://huggingface.co/datasets/internlm/WildClawBench">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
 <br>
 
@@ -138,7 +158,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='../images/DARE_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/pdf/2604.04215)
@@ -195,7 +215,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
 <br>
-<a href="https://yjyddq.github.io/RiOSWorld.github.io/">**Project HomePage**</a> /
+<a href="https://yjyddq.github.io/RiOSWorld.github.io/">**ProjectPage**</a> /
 <a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=flat-square&logo=github&label=Stars"/> / 
 <a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
@@ -289,6 +309,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 <h1 id='academic-services'>💻 Academic Service</h1>
 
+- Reviewer of Association for the Advancement of Artificial Intelligence 2027
 - Reviewer of International Conference on Machine Learning 2026
 - Reviewer of International Conference on Learning Representations 2026
 - Reviewer of International Conference on Learning Representations 2025
