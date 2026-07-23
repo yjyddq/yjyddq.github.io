@@ -133,7 +133,7 @@ AntGroup
 
 <br>
 <a href="https://github.com/inclusionAI/">**ProjectPage**</a> / <a href="https://github.com/inclusionAI/LLaDA2.X">**Code**</a> <img src="https://img.shields.io/github/stars/inclusionAI/LLaDA2.X?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/inclusionAI/LLaDA2.2-flash">**Model**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-flash?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<a href="https://huggingface.co/collections/inclusionAI/llada22">**Models**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Collections-yellow"/> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-flash?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
 <br>
 
 </div>
@@ -150,7 +150,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 <br>
 <a href="https://internlm.github.io/WildClawBench/">**ProjectPage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/datasets/internlm/WildClawBench">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<a href="https://huggingface.co/datasets/internlm/WildClawBench">**Datasets**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
 <br>
 
 </div>
@@ -217,7 +217,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**ProjectPage**</a> /
 <a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Dataset**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
+<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Datasets**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
   <summary>Demo</summary>
