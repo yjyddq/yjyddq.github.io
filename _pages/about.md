@@ -37,7 +37,7 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.07.22</strong>: We (AntGroup) released LLaDA2.2: Enabling Agentic Diffusion Language Models via Levenshtein Editing!</li>
+    <li><strong>2026.07.22</strong>: We (AntGroup) released <b>LLaDA2.2</b>: Enabling Agentic Diffusion Language Models via Levenshtein Editing!</li>
     <li><strong>2026.07.08</strong>: 1 paper (<b>DARE</b>) was accepted to COLM 2026 (First Author).</li>
     <li><strong>2026.04.08</strong>: We release the tech report of <b>DARE</b> and update the codebase.</li>
     <li><strong>2026.03.25</strong>: We (InternLM) release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
