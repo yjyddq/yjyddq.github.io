@@ -37,14 +37,12 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.09.25</strong>: 1 paper (<b>ToolCUA</b>) was accepted to NeurIPS 2026.</li>
+    <li><strong>2026.08.26</strong>: 1 paper (<b>VGAU-Diag</b>) was accepted to EMNLP 2026 main conference (Co-First Author).</li>
     <li><strong>2026.07.22</strong>: We (AntGroup) released <b>LLaDA2.2</b>: Enabling Agentic Diffusion Language Models via Levenshtein Editing!</li>
     <li><strong>2026.07.08</strong>: 1 paper (<b>DARE</b>) was accepted to COLM 2026 (First Author).</li>
-    <li><strong>2026.04.08</strong>: We release the tech report of <b>DARE</b> and update the codebase.</li>
     <li><strong>2026.03.25</strong>: We (InternLM) release the <b>WildClawBench</b>, a hard, practical, end-to-end evaluation for AI agents (OpenClaw like) — in the wild.</li>
-    <li><strong>2026.01.30</strong>: We release the paper of <b>ρ-𝙴𝙾𝚂</b>: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs (First Author).</li>  
     <li><strong>2026.01.26</strong>: 2 papers (<b>CANON</b> and <b>Misevolve</b>) were accepted to ICLR 2026.</li>
-    <li><strong>2025.12.01</strong>: We release the codebase of <b>DARE: dLLM Alignment and Reinforcement Executor</b>, an efficient rl training framework for diffusion large language models integrated various dLLM-tailored rl algorithms.</li>  
-    <li><strong>2025.09.28</strong>: We release the paper and code of Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step (First Author).</li>  
     <li><strong>2025.09.18</strong>: 1 paper (<b>RiOSWorld</b>) was accepted to NeurIPS 2025 (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to IEEE TIFS (First Author).</li>
     <li><strong>2025.06.26</strong>: 1 paper was accepted to ICCV 2025 (First Author).</li>
@@ -72,6 +70,8 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 
 
 #### AI Agents & Computer-Use Agent & Self-Evolving Agent
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2026``</span> [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/pdf/2605.12481). Xuhao Hu<sup>*</sup>, Xi Zhang<sup>*</sup>, Haiyang Xu<sup>†</sup>, Kyle Qiao1, Jingyi Yang, Xuanjing Huang, Jing Shao, Ming Yan<sup>†</sup>, Jieping Ye
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``GitHub``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
@@ -82,12 +82,10 @@ I am currently a first-year Ph.D. student at Fudan University. My research inter
 #### Video Understanding
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Kronecker Mask and Interpretive Prompts are Language-Action Video Learners](https://arxiv.org/pdf/2502.03549). **Jingyi Yang**<sup>*</sup>, Zitong Yu<sup>*</sup>, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
-
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE TIFS``</span> [G<sup>2</sup>V<sup>2</sup>former: Graph Guided Video Vision Transformer for Face Anti-Spoofing](https://arxiv.org/abs/2408.07675). **Jingyi Yang**, Zitong Yu<sup>†</sup>, Jia He, Xiuming Ni, Liepiao Zhang, Hui Li<sup>†</sup>, Xiaochun Cao
 
 #### Multi-Modal Learning & Domain Generalization for Face Anti-spoofing
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICCV 2025``</span> [DADM: Dual Alignment of Domain Modality for Face Anti-Spoofing](https://arxiv.org/pdf/2503.00429). **Jingyi Yang**<sup>*</sup>, Xun Lin<sup>*</sup>, Zitong Yu<sup>†</sup>, Liepiao Zhang, Xin Liu, Hui Li, Xiaochen Yuan, Xiaochun Cao
-
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECAI 2024 Oral``</span> [Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors](https://arxiv.org/abs/2407.08243). **Jingyi Yang**, Zitong Yu, Xiuming Ni, Jia He, Hui Li<sup>†</sup>
 
