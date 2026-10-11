@@ -20,7 +20,7 @@ redirect_from:
 
 # 👴 About Me
 
-I am currently a first-year Ph.D. student at Fudan University. My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinforcement Learning**, **Diffusion**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
+I am currently a second-year Ph.D. student at Fudan University. My research interest mainly includes **Computer Vision**, **AI Agent**, **Reinforcement Learning**, **Diffusion**. [My CV](https://yjyddq.github.io/files/resume.pdf) 📄
 
 **Email** 📧: <u>yangjingyi946@gmail.com</u> or <u>yangjingyi@mail.ustc.edu.cn</u> or <u>jingyiyang25@m.fudan.edu.cn</u>
 
@@ -307,6 +307,8 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 <h1 id='academic-services'>💻 Academic Service</h1>
 
+- Reviewer of Transactions on Machine Learning Research (TMLR)
+- Reviewer of International Conference on Learning Representations 2027
 - Reviewer of Association for the Advancement of Artificial Intelligence 2027
 - Reviewer of International Conference on Machine Learning 2026
 - Reviewer of International Conference on Learning Representations 2026
