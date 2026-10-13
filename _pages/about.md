@@ -72,7 +72,7 @@ I am currently a second-year Ph.D. student at Fudan University. My research inte
 #### AI Agents & Computer-Use Agent & Self-Evolving Agent
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2026``</span> [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/pdf/2605.12481). Xuhao Hu<sup>*</sup>, Xi Zhang<sup>*</sup>, Haiyang Xu<sup>†</sup>, Kyle Qiao1, Jingyi Yang, Xuanjing Huang, Jing Shao, Ming Yan<sup>†</sup>, Jieping Ye
 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``GitHub``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://arxiv.org/pdf/2605.10912). Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, Shengyuan Ding, Ziyu Liu, **Jingyi Yang**, Penghui Yang, Zhixiong Zhang, Xilin Wei, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen, Yuhang Zang<sup>†</sup>
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://arxiv.org/pdf/2506.00618). **Jingyi Yang**<sup>*</sup> <sup>‡</sup>, Shuai Shao<sup>*</sup>, Dongrui Liu, Jing Shao<sup>†</sup>
 
@@ -131,7 +131,7 @@ AntGroup
 
 <br>
 <a href="https://github.com/inclusionAI/">**ProjectPage**</a> / <a href="https://github.com/inclusionAI/LLaDA2.X">**Code**</a> <img src="https://img.shields.io/github/stars/inclusionAI/LLaDA2.X?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/collections/inclusionAI/llada22">**Models**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Collections-yellow"/> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-flash?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<a href="https://huggingface.co/inclusionAI/LLaDA2.2-mini">**LLaDA2.2-mini**</a> <a href="https://huggingface.co/inclusionAI/LLaDA2.2-flash">**LLaDA2.2-flash**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Collections-yellow"/> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-mini?expand=downloads&expand=downloadsAllTime">**LLaDA-mini DownloadsAllTime**</a> <a href="https://huggingface.co/api/models/inclusionAI/LLaDA2.2-flash?expand=downloads&expand=downloadsAllTime">**LLaDA-flash DownloadsAllTime**</a>
 <br>
 
 </div>
@@ -139,7 +139,7 @@ AntGroup
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GitHub</div><img src='../images/lobster_battle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/lobster_battle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WildClawBench: Hard, practical, end-to-end evaluation for AI agents — in the wild](https://github.com/InternLM/WildClawBench)
@@ -148,7 +148,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 
 <br>
 <a href="https://internlm.github.io/WildClawBench/">**ProjectPage**</a> / <a href="https://github.com/InternLM/WildClawBench">**Code**</a> <img src="https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/datasets/internlm/WildClawBench">**Datasets**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**Downloads**</a>
+<a href="https://huggingface.co/datasets/internlm/WildClawBench">**Benchmarks**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/internlm/WildClawBench?expand=downloads&expand=downloadsAllTime">**DownloadsAllTime**</a>
 <br>
 
 </div>
@@ -215,7 +215,7 @@ Shuangrui Ding<sup>‡</sup>, Xuanlang Dai<sup>*</sup>, Long Xing<sup>*</sup>, S
 <br>
 <a href="https://yjyddq.github.io/RiOSWorld.github.io/">**ProjectPage**</a> /
 <a href="https://github.com/yjyddq/RiOSWorld">**Code**</a> <img src="https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=flat-square&logo=github&label=Stars"/> / 
-<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Datasets**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**Downloads**</a> /
+<a href="https://huggingface.co/datasets/JY-Young/RiOSWorld">**Benchmarks**</a> <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow"/> <a href="https://huggingface.co/api/datasets/JY-Young/RiOSWorld?expand=downloads&expand=downloadsAllTime">**DownloadsAllTime**</a> /
 <a href="https://mp.weixin.qq.com/s/YCg6FZG2Csz0W1fxvG3eMg">**机器之心**</a> 
 <details>
   <summary>Demo</summary>
